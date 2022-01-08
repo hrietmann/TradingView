@@ -1,0 +1,23 @@
+{
+  "time": "2022-01-07T12:04:38Z",
+  "exchange": "COINBASE",
+  "ticker": "BTCUSD",
+  "bar": {
+    "time": "2022-01-07T12:04:00Z",
+    "open": "42334.45",
+    "high": "42345.57",
+    "low": "42318.99",
+    "close": "42344.57",
+    "volume": "2.63891771"
+  },
+  "strategy": {
+    "positionSize": "1",
+    "orderAction": "buy",
+    "orderSize": "2",
+    "orderPrice": "42334.450000000004",
+    "orderID": "Buy LONG",
+    "marketPosition": "long",
+    "marketPositionSize": "1",
+    "previousMarketPositionSize": "1"
+  }
+}

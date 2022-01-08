@@ -1,0 +1,23 @@
+{
+  "time": "{{timenow}}",
+  "exchange": "{{exchange}}",
+  "ticker": "{{ticker}}",
+  "bar": {
+    "time": "{{time}}",
+    "open": "{{open}}",
+    "high": "{{high}}",
+    "low": "{{low}}",
+    "close": "{{close}}",
+    "volume": "{{volume}}"
+  },
+  "strategy": {
+    "positionSize": "{{strategy.position_size}}",
+    "orderAction": "{{strategy.order.action}}",
+    "orderSize": "{{strategy.order.contracts}}",
+    "orderPrice": "{{strategy.order.price}}",
+    "orderID": "{{strategy.order.id}}",
+    "marketPosition": "{{strategy.market_position}}",
+    "marketPositionSize": "{{strategy.market_position_size}}",
+    "previousMarketPositionSize": "{{strategy.prev_market_position_size}}"
+  }
+}
