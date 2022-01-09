@@ -2,6 +2,15 @@
   "object": {
     "pins": [
       {
+        "package": "CodableKit",
+        "repositoryURL": "https://github.com/hrietmann/CodableKit.git",
+        "state": {
+          "branch": "main",
+          "revision": "2ff83783fc7e130d150619d0d563bc85721e1d1c",
+          "version": null
+        }
+      },
+      {
         "package": "CollectionConcurrencyKit",
         "repositoryURL": "https://github.com/JohnSundell/CollectionConcurrencyKit.git",
         "state": {
@@ -11,12 +20,12 @@
         }
       },
       {
-        "package": "Starscream",
-        "repositoryURL": "https://github.com/daltoniam/Starscream.git",
+        "package": "LogKit",
+        "repositoryURL": "https://github.com/hrietmann/LogKit.git",
         "state": {
           "branch": null,
-          "revision": "df8d82047f6654d8e4b655d1b1525c64e1059d21",
-          "version": "4.0.4"
+          "revision": "a817abead5b2281e007f3eae70c5a183ebdf89e9",
+          "version": "1.0.2"
         }
       },
       {
@@ -50,9 +59,9 @@
         "package": "TradeKit",
         "repositoryURL": "https://github.com/hrietmann/TradeKit.git",
         "state": {
-          "branch": null,
-          "revision": "a03e7cdd38e1df3a6ee6a8477d77485b7b7ac469",
-          "version": "1.0.0"
+          "branch": "main",
+          "revision": "fd9e18ba3dffb1af595824488b90d0008ea78919",
+          "version": null
         }
       }
     ]
